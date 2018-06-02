@@ -1,0 +1,113 @@
+.htm
+--EULA_en-gb.htm - 457.414kb
+--EULA_en-us.htm - 457.414kb
+--default.htm - 488.602kb
+--EULA_et-ee.htm - 492.977kb
+--default_oobe.htm - 496.203kb
+--EULA_hr-hr.htm - 506.813kb
+--EULA_da-dk.htm - 509.164kb
+--EULA_sl-si.htm - 516.867kb
+--EULA_nb-no.htm - 524.906kb
+--EULA_nl-nl.htm - 525.188kb
+--EULA_pt-br.htm - 533.531kb
+--EULA_fr-ca.htm - 542.078kb
+--EULA_fr-fr.htm - 542.078kb
+--EULA_it-it.htm - 542.852kb
+--EULA_es-es.htm - 545.438kb
+--EULA_es-mx.htm - 545.438kb
+--EULA_sv-se.htm - 549.930kb
+--EULA_de-de.htm - 550.477kb
+--EULA_fi-fi.htm - 552.703kb
+--EULA_pt-pt.htm - 555.109kb
+--EULA_tr-tr.htm - 587.008kb
+--EULA_sr-latn-cs.htm - 590.250kb
+--EULA_lt-lt.htm - 594.461kb
+--EULA_ro-ro.htm - 610.750kb
+--EULA_pl-pl.htm - 639.156kb
+--EULA_sk-sk.htm - 640.258kb
+--EULA_cs-cz.htm - 650.898kb
+--EULA_lv-lv.htm - 655.539kb
+--EULA_hu-hu.htm - 660.703kb
+--EULA_ar-sa.htm - 862.852kb
+--EULA_zh-cn.htm - 986.258kb
+--EULA_zh-hk.htm - 1149.531kb
+--EULA_zh-tw.htm - 1149.531kb
+--EULA_ja-jp.htm - 1642.609kb
+--EULA_el-gr.htm - 1870.672kb
+--EULA_bg-bg.htm - 1980.102kb
+--EULA_th-th.htm - 1985.508kb
+--EULA_uk-ua.htm - 2083.836kb
+--EULA_ru-ru.htm - 2217.594kb
+--EULA_ko-kr.htm - 4953.773kb
+--EULA_he-il.htm - 6755.055kb
+.dll
+--esdstub.dll - 317.563kb
+--cosquery.dll - 481.563kb
+--ESDHelper.dll - 545.563kb
+--cosqueryxp.dll - 1033.563kb
+--GetCurrentOOBE.dll - 1217.563kb
+--downloader.dll - 1837.563kb
+--wdscore.dll - 1889.563kb
+--DevInv.dll - 2577.563kb
+--appraiserxp.dll - 3869.563kb
+--GetCurrentDeploy.dll - 4377.563kb
+--wimgapi.dll - 5725.563kb
+--windlp.dll - 7153.563kb
+--webservices.dll - 7485.563kb
+.png
+--bullet.png - 1.727kb
+--marketing.png - 3.852kb
+--block.png - 7.180kb
+--pass.png - 14.234kb
+--NoNetworkConnection.png - 16.914kb
+--NoNetworkConnectionHoverOver.png - 17.281kb
+--logo.png - 20.398kb
+--GetStarted.png - 29.875kb
+--GetStartedHoverOver.png - 31.773kb
+.css
+--eula.css - 0.641kb
+--default_oobe.css - 39.844kb
+--default.css - 45.055kb
+--oobe-desktop.css - 319.945kb
+--ui-dark.css - 2102.805kb
+.exe
+--WinREBootApp32.exe - 197.563kb
+--WinREBootApp64.exe - 201.563kb
+--HttpHelper.exe - 217.563kb
+--bootsect.exe - 977.563kb
+--Windows10UpgraderApp.exe - 9785.563kb
+.EXE
+--DWTRIG20.EXE - 357.563kb
+--GetCurrentRollback.EXE - 573.563kb
+--GatherOSState.EXE - 4413.563kb
+--DW20.EXE - 5029.563kb
+.txt
+--hwexclude.txt - 18.102kb
+--hwcompat.txt - 571.367kb
+--hwcompatShared.txt - 6448.211kb
+.cmd
+--PostOOBEScript.cmd - 4.383kb
+--EnableWiFiTracing.cmd - 76.641kb
+.DLL
+--DWDCW20.DLL - 389.563kb
+--DWINTL20.DLL - 925.563kb
+.js
+--base.js - 10027.547kb
+--ui.js - 23803.453kb
+.log
+--upgrader_win10.log - 194.906kb
+--upgrader_default.log - 1738.141kb
+.cat
+--nxquery.cat - 77.422kb
+.gif
+--loading.gif - 135.898kb
+.inf
+--nxquery.inf - 11.680kb
+.ini
+--Configuration.ini - 1.656kb
+.mht
+--NetworkIssueFAQ.mht - 4860.102kb
+.sys
+--NXQuery.sys - 161.375kb
+.xml
+--BiosBlocks.xml - 733.469kb

@@ -1,0 +1,32 @@
+.dll
+--esdstub.dll - 317.563kb
+--cosquery.dll - 481.563kb
+--ESDHelper.dll - 545.563kb
+--GetCurrentOOBE.dll - 1217.563kb
+--downloader.dll - 1837.563kb
+--DevInv.dll - 2577.563kb
+--appraiserxp.dll - 3869.563kb
+--GetCurrentDeploy.dll - 4377.563kb
+--wimgapi.dll - 5725.563kb
+--windlp.dll - 7153.563kb
+.exe
+--WinREBootApp32.exe - 197.563kb
+--WinREBootApp64.exe - 201.563kb
+--HttpHelper.exe - 217.563kb
+--bootsect.exe - 977.563kb
+--Windows10UpgraderApp.exe - 9785.563kb
+.EXE
+--DWTRIG20.EXE - 357.563kb
+--GetCurrentRollback.EXE - 573.563kb
+--GatherOSState.EXE - 4413.563kb
+--DW20.EXE - 5029.563kb
+.cmd
+--PostOOBEScript.cmd - 4.383kb
+--EnableWiFiTracing.cmd - 76.641kb
+.log
+--upgrader_win10.log - 194.906kb
+--upgrader_default.log - 1738.141kb
+.DLL
+--DWDCW20.DLL - 389.563kb
+.ini
+--Configuration.ini - 1.656kb
