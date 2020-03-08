@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueueExercise", "StackAndQueueExercise\StackAndQueueExercise.csproj", "{CF99089D-B275-45DE-9AB8-E3ADA0DE9B07}"
 EndProject
@@ -55,17 +55,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E09_HTTP Server", "E09_HTTP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualStringProcessingLab", "StringProcessingLab\ManualStringProcessingLab.csproj", "{8A627557-AFD3-438A-A218-1DC66B6AA1FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{8805A547-FE75-4B8B-AD04-D3B2D10F2F0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{8805A547-FE75-4B8B-AD04-D3B2D10F2F0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgrammingLab", "FunctionalProgrammingLab\FunctionalProgrammingLab.csproj", "{7DB2E799-0AE3-420E-BBF7-3AB108B28503}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgrammingLab", "FunctionalProgrammingLab\FunctionalProgrammingLab.csproj", "{7DB2E799-0AE3-420E-BBF7-3AB108B28503}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ManualStringProccessingExercises", "ManualStringProccessingExercises", "{3C9CF9D4-0EDD-413B-AB1E-B98C6DEB2F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01_ReverseString", "E01_ReverseString\E01_ReverseString.csproj", "{63BB0131-022F-44AC-AAA3-D02119F95C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E01_ReverseString", "E01_ReverseString\E01_ReverseString.csproj", "{63BB0131-022F-44AC-AAA3-D02119F95C90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E02_StringLength", "E02_StringLength\E02_StringLength.csproj", "{007A1060-7E08-4E27-9163-0296EDB2CC7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E02_StringLength", "E02_StringLength\E02_StringLength.csproj", "{007A1060-7E08-4E27-9163-0296EDB2CC7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E03_FormattingNumbers", "E03_FormattingNumbers\E03_FormattingNumbers.csproj", "{190EAB31-1F6C-47C4-ABD2-659AFF4F2BFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E03_FormattingNumbers", "E03_FormattingNumbers\E03_FormattingNumbers.csproj", "{190EAB31-1F6C-47C4-ABD2-659AFF4F2BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "January_2020", "January_2020\January_2020.csproj", "{57589A5A-1524-4488-890D-F7DAC9DF170A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{190EAB31-1F6C-47C4-ABD2-659AFF4F2BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{190EAB31-1F6C-47C4-ABD2-659AFF4F2BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{190EAB31-1F6C-47C4-ABD2-659AFF4F2BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57589A5A-1524-4488-890D-F7DAC9DF170A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57589A5A-1524-4488-890D-F7DAC9DF170A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57589A5A-1524-4488-890D-F7DAC9DF170A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57589A5A-1524-4488-890D-F7DAC9DF170A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,5 +221,8 @@ Global
 		{63BB0131-022F-44AC-AAA3-D02119F95C90} = {3C9CF9D4-0EDD-413B-AB1E-B98C6DEB2F88}
 		{007A1060-7E08-4E27-9163-0296EDB2CC7B} = {3C9CF9D4-0EDD-413B-AB1E-B98C6DEB2F88}
 		{190EAB31-1F6C-47C4-ABD2-659AFF4F2BFF} = {3C9CF9D4-0EDD-413B-AB1E-B98C6DEB2F88}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0085C281-DED7-4ED6-8BE5-32FCCBC4346B}
 	EndGlobalSection
 EndGlobal
