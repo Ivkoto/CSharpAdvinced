@@ -17,6 +17,13 @@ namespace January_2020
                 var curName = Console.ReadLine();
                 usernames.Add(curName);
             }
+
+            Console.WriteLine($"The inputed name are:\n{string.Join(Environment.NewLine, usernames)}");
+
+            //foreach (var name in usernames)
+            //{
+            //    Console.WriteLine(name);
+            //}
         }
     }
 }
